@@ -34,9 +34,7 @@ function Form() {
                         <button type="submit" className="btn btn-primary dsmovie-btn">Salvar</button>
                     </div>
                 </form>
-                <div className="dsmovie-form-btn-container">
-                    <button className="btn btn-primary dsmovie-btn mt-3">Cancelar</button>
-                </div>
+                <button className="btn btn-primary dsmovie-btn mt-3">Cancelar</button>
             </div>
         </div>
     );
